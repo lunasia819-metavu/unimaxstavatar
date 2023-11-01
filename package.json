@@ -1,0 +1,13 @@
+{
+    "name": "com.maxst.avatarstudio",
+    "displayName": "unimaxstavatar",
+    "version": "0.1.2a",
+    "unity": "2021.3",
+    "description": "unimaxstavatar package is for developing Unity apps that target native platforms.",
+    "keywords": ["maxst", "avatar", "unimaxstavatar"],
+    "category": "Avatar Asset",
+    "files": [
+        "/unimaxstavatar",
+        "unimaxstavatar.meta"
+    ]
+}
